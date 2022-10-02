@@ -62,7 +62,9 @@ prez_tidy <-
   
   # Drop untidy columns
   
-  select(-c(county_city,ward,total_votes_cast,county_name,state))
+  select(-c(county_city,ward,total_votes_cast,state))
+
+  # leaving county name is technically not tidy but it helps later
 
 
 # Tidy up CD2 data --------------------------------------------------------
@@ -93,8 +95,9 @@ cd2_tidy <-
 
 # Output to CSV -----------------------------------------------------------
 
-write.csv(prez_tidy,"data/processed/2016_prez")
-write.csv(cd2_tidy,"data/processed/2022_cd2")
+write.csv(prez_tidy,"data/processed/2016_prez.csv")
+write.csv(cd2_tidy,"data/processed/2022_cd2.csv")
+write.csv(fips,"data/processed/fips.csv")
 
 # Filler ------------------------------------------------------------------
 
