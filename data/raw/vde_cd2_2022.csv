@@ -1,261 +1,247 @@
-,pct,"Andrew G. ""Andy"" Baan  Republican",Jarome Bell  Republican,Jen A. Kiggans  Republican,L. Tommy Altman III  Republican,Precinct_#,County
-0,# AB - Central Absentee Precinct (02),4,16,27,3,# AB,ACCOMACK_COUNTY
-1,# EV - Central Absentee Precinct (02),1,77,86,10,# EV,ACCOMACK_COUNTY
-2,# PE - Central Absentee Precinct (02),0,2,0,0,# PE,ACCOMACK_COUNTY
-3,## Provisional (02),0,0,0,0,## P,ACCOMACK_COUNTY
-4,101 - CHINCOTEAGUE (02),4,236,66,14,101 ,ACCOMACK_COUNTY
-5,201 - ATLANTIC (02),0,58,40,4,201 ,ACCOMACK_COUNTY
-6,202 - GREENBACKVILLE (02),3,83,68,9,202 ,ACCOMACK_COUNTY
-7,301 - NEW CHURCH (02),11,69,34,1,301 ,ACCOMACK_COUNTY
-8,401 - BLOXOM (02),4,35,21,0,401 ,ACCOMACK_COUNTY
-9,402 - PARKSLEY (02),3,42,33,2,402 ,ACCOMACK_COUNTY
-10,403 - SAXIS (02),2,20,28,0,403 ,ACCOMACK_COUNTY
-11,501 - MAPPSVILLE (02),0,23,19,0,501 ,ACCOMACK_COUNTY
-12,502 - RUE (02),1,8,9,3,502 ,ACCOMACK_COUNTY
-13,601 - ACCOMAC (02),0,70,71,9,601 ,ACCOMACK_COUNTY
-14,602 - TANGIER (02),3,38,23,0,602 ,ACCOMACK_COUNTY
-15,701 - NANDUA (02),2,66,97,4,701 ,ACCOMACK_COUNTY
-16,801 - BOBTOWN (02),3,26,31,10,801 ,ACCOMACK_COUNTY
-17,802 - MELFA (02),1,26,24,4,802 ,ACCOMACK_COUNTY
-18,803 - WACHAPREAGUE (02),6,48,35,5,803 ,ACCOMACK_COUNTY
-19,901 - PAINTER (02),4,63,64,10,901 ,ACCOMACK_COUNTY
-20,Member House of Representatives (02),1237,11330,23300,5972,Memb,ACCOMACK_COUNTY
-21,Member House of Representatives (02) - ACCOMACK COUNTY,52,1006,776,88,Memb,ACCOMACK_COUNTY
-0,# AB - Central Absentee Precinct (02),53,72,282,61,# AB,CHESAPEAKE_CITY
-1,# EV - Central Absentee Precinct (02),23,162,271,171,# EV,CHESAPEAKE_CITY
-2,# PE - Central Absentee Precinct (02),4,11,20,6,# PE,CHESAPEAKE_CITY
-3,## Provisional (02),1,7,8,0,## P,CHESAPEAKE_CITY
-4,001 - GREAT BRIDGE (02),3,84,92,49,001 ,CHESAPEAKE_CITY
-5,002 - BETHEL (02),1,87,135,56,002 ,CHESAPEAKE_CITY
-6,006 - DEEP CREEK (02),1,61,42,27,006 ,CHESAPEAKE_CITY
-7,007 - GREENBRIER (02),9,92,135,34,007 ,CHESAPEAKE_CITY
-8,009 - BELLS MILL (02),3,60,112,130,009 ,CHESAPEAKE_CITY
-9,014 - GRASSFIELD (02),3,103,112,59,014 ,CHESAPEAKE_CITY
-10,016 - HICKORY GROVE (02),3,97,108,119,016 ,CHESAPEAKE_CITY
-11,017 - INDIAN CREEK (02),4,53,73,46,017 ,CHESAPEAKE_CITY
-12,023 - OAK GROVE (02),5,45,76,26,023 ,CHESAPEAKE_CITY
-13,028 - SUNRAY I (02),2,15,19,12,028 ,CHESAPEAKE_CITY
-14,034 - HICKORY MIDDLE SCHOOL (02),1,80,154,68,034 ,CHESAPEAKE_CITY
-15,036 - GREAT BRIDGE BAPTIST CHURCH (02),2,51,103,59,036 ,CHESAPEAKE_CITY
-16,037 - BRIDGETOWN (02),6,58,90,42,037 ,CHESAPEAKE_CITY
-17,039 - LAKE DRUMMOND (02),7,46,66,23,039 ,CHESAPEAKE_CITY
-18,041 - JOHN T WEST (02),5,82,61,71,041 ,CHESAPEAKE_CITY
-19,042 - PARKWAYS (02),3,34,33,11,042 ,CHESAPEAKE_CITY
-20,043 - PLEASANT CROSSING (02),6,105,118,43,043 ,CHESAPEAKE_CITY
-21,045 - SUNRAY II (02),2,19,11,9,045 ,CHESAPEAKE_CITY
-22,046 - BELLS MILL II (02),3,48,74,49,046 ,CHESAPEAKE_CITY
-23,049 - WATERWAY (02),4,66,70,35,049 ,CHESAPEAKE_CITY
-24,050 - RIVER WALK (02),6,54,81,33,050 ,CHESAPEAKE_CITY
-25,051 - COOPERS WAY (02),5,85,120,100,051 ,CHESAPEAKE_CITY
-26,052 - SHIPYARD ROAD (02),1,25,36,10,052 ,CHESAPEAKE_CITY
-27,053 - FAIRWAYS (02),0,65,108,23,053 ,CHESAPEAKE_CITY
-28,054 - PUGHSVILLE (02),0,2,0,0,054 ,CHESAPEAKE_CITY
-29,056 - GREEN TREE (02),3,55,47,30,056 ,CHESAPEAKE_CITY
-30,059 - CLEARFIELD (02),5,55,79,34,059 ,CHESAPEAKE_CITY
-31,060 - PARKER ROAD (02),7,58,91,73,060 ,CHESAPEAKE_CITY
-32,061 - CENTERVILLE (02),3,79,149,106,061 ,CHESAPEAKE_CITY
-33,062 - FENTRESS (02),8,85,124,71,062 ,CHESAPEAKE_CITY
-34,063 - POPLAR BRANCH (02),2,42,81,50,063 ,CHESAPEAKE_CITY
-35,064 - DEEP CREEK II (02),2,46,35,26,064 ,CHESAPEAKE_CITY
-36,065 - WATERWAY II (02),3,59,108,60,065 ,CHESAPEAKE_CITY
-37,Member House of Representatives (02),1237,11330,23300,5972,Memb,CHESAPEAKE_CITY
-38,Member House of Representatives (02) - CHESAPEAKE CITY,199,2248,3324,1822,Memb,CHESAPEAKE_CITY
-0,# AB - Central Absentee Precinct (02),2,1,10,1,# AB,FRANKLIN_CITY
-1,# EV - Central Absentee Precinct (02),0,10,16,2,# EV,FRANKLIN_CITY
-2,# PE - Central Absentee Precinct (02),0,2,0,0,# PE,FRANKLIN_CITY
-3,## Provisional (02),0,0,0,0,## P,FRANKLIN_CITY
-4,101 - PRECINCT 1-1 (02),3,36,47,13,101 ,FRANKLIN_CITY
-5,201 - PRECINCT 2-1 (02),3,23,27,6,201 ,FRANKLIN_CITY
-6,301 - PRECINCT 3-1 (02),2,1,4,1,301 ,FRANKLIN_CITY
-7,401 - PRECINCT 4-1 (02),1,0,1,0,401 ,FRANKLIN_CITY
-8,501 - PRECINCT 5-1 (02),0,1,4,0,501 ,FRANKLIN_CITY
-9,601 - PRECINCT 6-1 (02),4,13,24,7,601 ,FRANKLIN_CITY
-10,Member House of Representatives (02),1237,11330,23300,5972,Memb,FRANKLIN_CITY
-11,Member House of Representatives (02) - FRANKLIN CITY,15,87,133,30,Memb,FRANKLIN_CITY
-0,# AB - Central Absentee Precinct (02),20,22,51,19,# AB,ISLE_OF_WIGHT_COUNTY
-1,# EV - Central Absentee Precinct (02),8,93,127,16,# EV,ISLE_OF_WIGHT_COUNTY
-2,# PE - Central Absentee Precinct (02),0,1,5,0,# PE,ISLE_OF_WIGHT_COUNTY
-3,## Provisional (02),0,0,1,0,## P,ISLE_OF_WIGHT_COUNTY
-4,101 - PAGAN RIVER (02),10,96,155,33,101 ,ISLE_OF_WIGHT_COUNTY
-5,102 - CYPRESS CREEK A (02),14,90,151,20,102 ,ISLE_OF_WIGHT_COUNTY
-6,103 - CYPRESS CREEK B (02),0,8,11,0,103 ,ISLE_OF_WIGHT_COUNTY
-7,201 - BARTLETT (02),5,59,96,41,201 ,ISLE_OF_WIGHT_COUNTY
-8,202 - NIKE PARK A (02),10,70,195,31,202 ,ISLE_OF_WIGHT_COUNTY
-9,203 - NIKE PARK B (02),0,7,9,2,203 ,ISLE_OF_WIGHT_COUNTY
-10,301 - RUSHMERE (02),5,29,34,2,301 ,ISLE_OF_WIGHT_COUNTY
-11,302 - PONS (02),4,31,43,7,302 ,ISLE_OF_WIGHT_COUNTY
-12,303 - BENNS CHURCH (02),3,12,15,0,303 ,ISLE_OF_WIGHT_COUNTY
-13,304 - NEW TOWNE (02),1,1,13,5,304 ,ISLE_OF_WIGHT_COUNTY
-14,401 - BOWLING GREEN (02),0,62,104,7,401 ,ISLE_OF_WIGHT_COUNTY
-15,402 - WINDSOR (02),4,105,92,11,402 ,ISLE_OF_WIGHT_COUNTY
-16,403 - CEDAR GROVE (02),2,71,71,13,403 ,ISLE_OF_WIGHT_COUNTY
-17,501 - WALTERS (02),1,44,64,2,501 ,ISLE_OF_WIGHT_COUNTY
-18,502 - BEAVER DAM (02),2,36,53,6,502 ,ISLE_OF_WIGHT_COUNTY
-19,503 - FIRE TOWER (02),1,59,86,9,503 ,ISLE_OF_WIGHT_COUNTY
-20,504 - BETHANY CHURCH (02),3,58,62,9,504 ,ISLE_OF_WIGHT_COUNTY
-21,Member House of Representatives (02),1237,11330,23300,5972,Memb,ISLE_OF_WIGHT_COUNTY
-22,Member House of Representatives (02) - ISLE OF WIGHT COUNTY,93,954,1438,233,Memb,ISLE_OF_WIGHT_COUNTY
-0,# AB - Central Absentee Precinct (02),0,10,30,2,# AB,NORTHAMPTON_COUNTY
-1,# EV - Central Absentee Precinct (02),0,11,58,11,# EV,NORTHAMPTON_COUNTY
-2,# PE - Central Absentee Precinct (02),1,0,1,0,# PE,NORTHAMPTON_COUNTY
-3,## Provisional (02),0,0,0,0,## P,NORTHAMPTON_COUNTY
-4,101 - PRECINCT 1-1 (02),3,36,106,53,101 ,NORTHAMPTON_COUNTY
-5,201 - PRECINCT 2-1 (02),0,21,35,3,201 ,NORTHAMPTON_COUNTY
-6,301 - PRECINCT 3-1 (02),1,28,22,1,301 ,NORTHAMPTON_COUNTY
-7,401 - PRECINCT 4-1 (02),5,44,60,13,401 ,NORTHAMPTON_COUNTY
-8,501 - PRECINCT 5-1 (02),1,45,80,3,501 ,NORTHAMPTON_COUNTY
-9,Member House of Representatives (02),1237,11330,23300,5972,Memb,NORTHAMPTON_COUNTY
-10,Member House of Representatives (02) - NORTHAMPTON COUNTY,11,195,392,86,Memb,NORTHAMPTON_COUNTY
-0,# AB - Central Absentee Precinct (02),1,3,13,6,# AB,SOUTHAMPTON_COUNTY
-1,# EV - Central Absentee Precinct (02),0,20,11,0,# EV,SOUTHAMPTON_COUNTY
-2,# PE - Central Absentee Precinct (02),0,0,0,0,# PE,SOUTHAMPTON_COUNTY
-3,## Provisional (02),0,0,0,0,## P,SOUTHAMPTON_COUNTY
-4,101 - BERLIN (02),2,23,25,2,101 ,SOUTHAMPTON_COUNTY
-5,102 - IVOR (02),2,42,41,2,102 ,SOUTHAMPTON_COUNTY
-6,501 - HUNTERDALE (02),4,43,43,12,501 ,SOUTHAMPTON_COUNTY
-7,502 - FORKS-OF-THE-RIVER (02),0,8,14,1,502 ,SOUTHAMPTON_COUNTY
-8,601 - COURTLAND (02),4,31,25,10,601 ,SOUTHAMPTON_COUNTY
-9,602 - SEDLEY (02),1,19,27,7,602 ,SOUTHAMPTON_COUNTY
-10,701 - BLACKWATER RIVER (02),1,10,9,0,701 ,SOUTHAMPTON_COUNTY
-11,702 - NEWSOMS (02),2,8,7,0,702 ,SOUTHAMPTON_COUNTY
-12,Member House of Representatives (02),1237,11330,23300,5972,Memb,SOUTHAMPTON_COUNTY
-13,Member House of Representatives (02) - SOUTHAMPTON COUNTY,17,207,215,40,Memb,SOUTHAMPTON_COUNTY
-0,# AB - Central Absentee Precinct (02),26,38,99,31,# AB,SUFFOLK_CITY
-1,# EV - Central Absentee Precinct (02),16,122,117,40,# EV,SUFFOLK_CITY
-2,# PE - Central Absentee Precinct (02),2,2,10,1,# PE,SUFFOLK_CITY
-3,## Provisional (02),0,2,2,0,## P,SUFFOLK_CITY
-4,101 - BELLEHARBOUR (02),0,28,37,5,101 ,SUFFOLK_CITY
-5,102 - DRIVER (02),9,129,247,97,102 ,SUFFOLK_CITY
-6,104 - BENNETTS CREEK (02),5,67,78,32,104 ,SUFFOLK_CITY
-7,201 - EBENEZER (02),16,102,195,31,201 ,SUFFOLK_CITY
-8,202 - CHUCKATUCK (02),12,79,98,30,202 ,SUFFOLK_CITY
-9,203 - KINGS FORK (02),3,39,65,59,203 ,SUFFOLK_CITY
-10,204 - HILLPOINT (02),3,32,45,5,204 ,SUFFOLK_CITY
-11,301 - WHITE MARSH (02),2,23,18,5,301 ,SUFFOLK_CITY
-12,302 - JOHN F KENNEDY (02),3,20,13,4,302 ,SUFFOLK_CITY
-13,304 - NANSEMOND RIVER (02),9,48,57,21,304 ,SUFFOLK_CITY
-14,305 - SHOULDERS HILL (02),4,28,14,6,305 ,SUFFOLK_CITY
-15,401 - AIRPORT (02),5,51,60,9,401 ,SUFFOLK_CITY
-16,402 - WHALEYVILLE (02),3,107,84,18,402 ,SUFFOLK_CITY
-17,403 - SOUTHSIDE (02),1,2,5,3,403 ,SUFFOLK_CITY
-18,404 - BOOKER T WASHINGTON (02),0,3,2,2,404 ,SUFFOLK_CITY
-19,405 - PITTMANTOWN (02),4,25,25,5,405 ,SUFFOLK_CITY
-20,501 - KILBYS MILL (02),8,88,88,20,501 ,SUFFOLK_CITY
-21,502 - HOLLAND (02),6,107,73,11,502 ,SUFFOLK_CITY
-22,504 - LAKE COHOON (02),10,140,153,43,504 ,SUFFOLK_CITY
-23,601 - LAKESIDE (02),7,58,74,28,601 ,SUFFOLK_CITY
-24,602 - OLDE TOWNE (02),1,11,14,1,602 ,SUFFOLK_CITY
-25,603 - ELEPHANTS FORK/WESTHAVEN (02),3,25,14,2,603 ,SUFFOLK_CITY
-26,604 - WILROY (02),0,43,33,17,604 ,SUFFOLK_CITY
-27,605 - HOLLYWOOD (02),0,1,0,0,605 ,SUFFOLK_CITY
-28,702 - HARBOURVIEW (02),8,58,97,15,702 ,SUFFOLK_CITY
-29,704 - BURBAGE GRANT (02),6,48,49,11,704 ,SUFFOLK_CITY
-30,706 - HUNTERSVILLE (02),3,23,22,3,706 ,SUFFOLK_CITY
-31,Member House of Representatives (02),1237,11330,23300,5972,Memb,SUFFOLK_CITY
-32,Member House of Representatives (02) - SUFFOLK CITY,175,1549,1888,555,Memb,SUFFOLK_CITY
-0,# AB - Central Absentee Precinct (02),154,228,1118,167,# AB,VIRGINIA_BEACH_CITY
-1,# EV - Central Absentee Precinct (02),44,301,958,256,# EV,VIRGINIA_BEACH_CITY
-2,# PE - Central Absentee Precinct (02),8,31,112,20,# PE,VIRGINIA_BEACH_CITY
-3,## Provisional (02),0,5,24,4,## P,VIRGINIA_BEACH_CITY
-4,001 - NORTH BEACH (02),4,69,335,35,001 ,VIRGINIA_BEACH_CITY
-5,002 - SOUTH BEACH (02),4,39,105,20,002 ,VIRGINIA_BEACH_CITY
-6,003 - OCEAN LAKES (02),2,38,77,19,003 ,VIRGINIA_BEACH_CITY
-7,004 - LINKHORN (02),4,53,249,39,004 ,VIRGINIA_BEACH_CITY
-8,005 - SEATACK (02),4,31,55,13,005 ,VIRGINIA_BEACH_CITY
-9,006 - ALANTON (02),9,78,221,46,006 ,VIRGINIA_BEACH_CITY
-10,007 - KINGSTON (02),5,47,203,28,007 ,VIRGINIA_BEACH_CITY
-11,008 - LONDON BRIDGE (02),9,49,104,26,008 ,VIRGINIA_BEACH_CITY
-12,009 - TRANTWOOD (02),12,84,309,19,009 ,VIRGINIA_BEACH_CITY
-13,010 - GREAT NECK (02),8,75,362,28,010 ,VIRGINIA_BEACH_CITY
-14,011 - CAPE HENRY (02),13,58,318,35,011 ,VIRGINIA_BEACH_CITY
-15,012 - PLAZA (02),8,31,104,18,012 ,VIRGINIA_BEACH_CITY
-16,013 - MT TRASHMORE (02),6,64,199,36,013 ,VIRGINIA_BEACH_CITY
-17,014 - MALIBU (02),5,57,175,23,014 ,VIRGINIA_BEACH_CITY
-18,015 - OLD DONATION (02),4,43,77,11,015 ,VIRGINIA_BEACH_CITY
-19,016 - ARAGONA (02),9,71,128,16,016 ,VIRGINIA_BEACH_CITY
-20,017 - OCEAN PARK (02),3,42,170,12,017 ,VIRGINIA_BEACH_CITY
-21,018 - THOROUGHGOOD (02),2,50,299,35,018 ,VIRGINIA_BEACH_CITY
-22,019 - LAKE SMITH (02),8,38,156,11,019 ,VIRGINIA_BEACH_CITY
-23,020 - BAYSIDE (02),1,64,125,20,020 ,VIRGINIA_BEACH_CITY
-24,021 - DAVIS CORNER (02),5,15,43,6,021 ,VIRGINIA_BEACH_CITY
-25,022 - POINT O VIEW (02),4,37,174,23,022 ,VIRGINIA_BEACH_CITY
-26,023 - ARROWHEAD (02),5,68,127,19,023 ,VIRGINIA_BEACH_CITY
-27,024 - LARKSPUR (02),3,27,134,28,024 ,VIRGINIA_BEACH_CITY
-28,025 - AVALON (02),7,60,181,52,025 ,VIRGINIA_BEACH_CITY
-29,026 - FAIRFIELD (02),6,58,207,45,026 ,VIRGINIA_BEACH_CITY
-30,027 - EDWIN (02),6,59,232,34,027 ,VIRGINIA_BEACH_CITY
-31,028 - THALIA (02),6,55,166,22,028 ,VIRGINIA_BEACH_CITY
-32,029 - HOLLAND (02),2,45,49,4,029 ,VIRGINIA_BEACH_CITY
-33,030 - RED WING (02),4,51,145,73,030 ,VIRGINIA_BEACH_CITY
-34,031 - SIGMA (02),6,64,197,149,031 ,VIRGINIA_BEACH_CITY
-35,032 - CREEDS (02),1,57,91,70,032 ,VIRGINIA_BEACH_CITY
-36,033 - CAPPS SHOP (02),1,57,119,47,033 ,VIRGINIA_BEACH_CITY
-37,034 - BLACKWATER (02),2,23,65,34,034 ,VIRGINIA_BEACH_CITY
-38,035 - COURTHOUSE (02),4,57,197,82,035 ,VIRGINIA_BEACH_CITY
-39,036 - WINDSOR OAKS (02),4,54,95,14,036 ,VIRGINIA_BEACH_CITY
-40,037 - CHESAPEAKE BEACH (02),9,42,103,23,037 ,VIRGINIA_BEACH_CITY
-41,038 - WITCHDUCK (02),7,70,322,64,038 ,VIRGINIA_BEACH_CITY
-42,039 - PEMBROKE (02),5,47,137,20,039 ,VIRGINIA_BEACH_CITY
-43,040 - BONNEY (02),0,23,64,4,040 ,VIRGINIA_BEACH_CITY
-44,041 - COLLEGE PARK (02),3,22,67,9,041 ,VIRGINIA_BEACH_CITY
-45,042 - BRANDON (02),6,60,138,21,042 ,VIRGINIA_BEACH_CITY
-46,043 - BELLAMY (02),4,23,59,2,043 ,VIRGINIA_BEACH_CITY
-47,044 - CENTERVILLE (02),6,49,122,38,044 ,VIRGINIA_BEACH_CITY
-48,045 - TIMBERLAKE (02),2,25,51,11,045 ,VIRGINIA_BEACH_CITY
-49,046 - GREEN RUN (02),0,19,37,7,046 ,VIRGINIA_BEACH_CITY
-50,047 - KINGS GRANT (02),3,53,375,67,047 ,VIRGINIA_BEACH_CITY
-51,048 - WOLFSNARE (02),8,74,214,27,048 ,VIRGINIA_BEACH_CITY
-52,049 - LYNNHAVEN (02),6,54,206,55,049 ,VIRGINIA_BEACH_CITY
-53,050 - OCEANA (02),1,17,32,7,050 ,VIRGINIA_BEACH_CITY
-54,051 - STRATFORD CHASE (02),6,37,141,19,051 ,VIRGINIA_BEACH_CITY
-55,052 - HOMESTEAD (02),9,79,158,51,052 ,VIRGINIA_BEACH_CITY
-56,053 - SHANNON (02),2,36,114,26,053 ,VIRGINIA_BEACH_CITY
-57,054 - CROMWELL (02),2,44,38,6,054 ,VIRGINIA_BEACH_CITY
-58,055 - MAGIC HOLLOW (02),4,24,34,19,055 ,VIRGINIA_BEACH_CITY
-59,056 - EDINBURGH (02),8,41,118,8,056 ,VIRGINIA_BEACH_CITY
-60,057 - SHERRY PARK (02),3,53,78,3,057 ,VIRGINIA_BEACH_CITY
-61,058 - GLENWOOD (02),7,58,106,30,058 ,VIRGINIA_BEACH_CITY
-62,059 - SHELTON PARK (02),7,38,92,14,059 ,VIRGINIA_BEACH_CITY
-63,060 - FOXFIRE (02),5,78,165,69,060 ,VIRGINIA_BEACH_CITY
-64,061 - BAKER (02),1,4,10,5,061 ,VIRGINIA_BEACH_CITY
-65,062 - LANDSTOWN (02),8,66,142,42,062 ,VIRGINIA_BEACH_CITY
-66,063 - CULVER (02),8,65,126,49,063 ,VIRGINIA_BEACH_CITY
-67,064 - ROSEMONT FOREST (02),3,49,114,19,064 ,VIRGINIA_BEACH_CITY
-68,065 - COLONIAL (02),1,28,87,39,065 ,VIRGINIA_BEACH_CITY
-69,066 - HUNT (02),6,51,119,68,066 ,VIRGINIA_BEACH_CITY
-70,067 - EASTERN SHORE (02),2,15,37,5,067 ,VIRGINIA_BEACH_CITY
-71,068 - MANOR (02),3,52,223,18,068 ,VIRGINIA_BEACH_CITY
-72,069 - SHELL (02),3,22,52,18,069 ,VIRGINIA_BEACH_CITY
-73,070 - CORPORATE LANDING (02),5,65,66,18,070 ,VIRGINIA_BEACH_CITY
-74,071 - ROUND HILL (02),4,25,62,5,071 ,VIRGINIA_BEACH_CITY
-75,072 - RUDEE (02),5,44,172,27,072 ,VIRGINIA_BEACH_CITY
-76,073 - DAHLIA (02),2,19,43,6,073 ,VIRGINIA_BEACH_CITY
-77,074 - BUCKNER (02),2,28,46,6,074 ,VIRGINIA_BEACH_CITY
-78,075 - COLONY (02),31,55,287,34,075 ,VIRGINIA_BEACH_CITY
-79,076 - VILLAGE (02),2,14,36,5,076 ,VIRGINIA_BEACH_CITY
-80,077 - BROOKWOOD (02),9,69,60,21,077 ,VIRGINIA_BEACH_CITY
-81,078 - INDIAN LAKES (02),5,49,84,9,078 ,VIRGINIA_BEACH_CITY
-82,079 - PLEASANT HALL (02),5,24,45,7,079 ,VIRGINIA_BEACH_CITY
-83,080 - CHIMNEY HILL (02),3,29,39,6,080 ,VIRGINIA_BEACH_CITY
-84,081 - ROCK LAKE (02),4,63,56,14,081 ,VIRGINIA_BEACH_CITY
-85,082 - SHELBURNE (02),6,42,118,48,082 ,VIRGINIA_BEACH_CITY
-86,083 - STRAWBRIDGE (02),6,72,131,49,083 ,VIRGINIA_BEACH_CITY
-87,084 - TALLWOOD (02),5,27,75,13,084 ,VIRGINIA_BEACH_CITY
-88,085 - UPTON (02),2,54,148,89,085 ,VIRGINIA_BEACH_CITY
-89,086 - HAYGOOD (02),4,60,249,38,086 ,VIRGINIA_BEACH_CITY
-90,087 - HILLCREST (02),5,51,129,18,087 ,VIRGINIA_BEACH_CITY
-91,088 - NORTH LANDING (02),1,44,81,24,088 ,VIRGINIA_BEACH_CITY
-92,089 - LAKE CHRISTOPHER (02),4,62,169,19,089 ,VIRGINIA_BEACH_CITY
-93,090 - LAKE JOYCE (02),3,42,124,18,090 ,VIRGINIA_BEACH_CITY
-94,091 - LEXINGTON (02),2,41,71,9,091 ,VIRGINIA_BEACH_CITY
-95,092 - LITTLE NECK (02),5,42,291,15,092 ,VIRGINIA_BEACH_CITY
-96,093 - NEWTOWN (02),5,8,21,7,093 ,VIRGINIA_BEACH_CITY
-97,094 - PINEWOOD (02),3,33,104,8,094 ,VIRGINIA_BEACH_CITY
-98,095 - DAM NECK (02),2,31,73,33,095 ,VIRGINIA_BEACH_CITY
-99,096 - HILLTOP (02),2,41,39,9,096 ,VIRGINIA_BEACH_CITY
-100,097 - INDIAN RIVER (02),2,42,49,10,097 ,VIRGINIA_BEACH_CITY
-101,098 - INDEPENDENCE (02),1,4,25,0,098 ,VIRGINIA_BEACH_CITY
-102,099 - SALEM WOODS (02),0,21,47,8,099 ,VIRGINIA_BEACH_CITY
-103,100 - SANDBRIDGE (02),0,32,108,43,100 ,VIRGINIA_BEACH_CITY
-104,Member House of Representatives (02),1237,11330,23300,5972,Memb,VIRGINIA_BEACH_CITY
-105,Member House of Representatives (02) - VIRGINIA BEACH CITY,675,5084,15134,3118,Memb,VIRGINIA_BEACH_CITY
+County/City,Ward,Pct,"Jennifer Ann Kiggans","Jarome Bell","Larry Thomas Altman, III","Andrew George Baan","All Others","Total Votes Cast"
+,,,,,,
+"Accomack County",-,"101 - Chincoteague",66,236,14,4,0,320
+"Accomack County",-,"201 - Atlantic",40,58,4,0,0,102
+"Accomack County",-,"202 - Greenbackville",68,83,9,3,0,163
+"Accomack County",-,"301 - New Church",34,69,1,11,0,115
+"Accomack County",-,"401 - Bloxom",21,35,0,4,0,60
+"Accomack County",-,"402 - Parksley",33,42,2,3,0,80
+"Accomack County",-,"403 - Saxis",28,20,0,2,0,50
+"Accomack County",-,"501 - Mappsville",19,23,0,0,0,42
+"Accomack County",-,"502 - Rue",9,8,3,1,0,21
+"Accomack County",-,"601 - Accomac",71,70,9,0,0,150
+"Accomack County",-,"602 - Tangier",23,38,0,3,0,64
+"Accomack County",-,"701 - Nandua",97,66,4,2,0,169
+"Accomack County",-,"801 - Bobtown",31,26,10,3,0,70
+"Accomack County",-,"802 - Melfa",24,26,4,1,0,55
+"Accomack County",-,"803 - Wachapreague",35,48,5,6,0,94
+"Accomack County",-,"901 - Painter",64,63,10,4,0,141
+"Accomack County",-,"##ab - Central Absentee Precinct",27,16,3,4,0,50
+"Accomack County",-,"##ev - Central Absentee Precinct",86,77,10,1,0,174
+"Accomack County",-,"##pe - Central Absentee Precinct",0,2,0,0,0,2
+"Accomack County",-,Provisional,0,0,0,0,0,0
+"Chesapeake City",-,"1 - Great Bridge",92,84,49,3,0,228
+"Chesapeake City",-,"2 - Bethel",135,87,56,1,0,279
+"Chesapeake City",-,"6 - Deep Creek",42,61,27,1,0,131
+"Chesapeake City",-,"7 - Greenbrier",135,92,34,9,0,270
+"Chesapeake City",-,"9 - Bells Mill",112,60,130,3,0,305
+"Chesapeake City",-,"14 - Grassfield",112,103,59,3,0,277
+"Chesapeake City",-,"16 - Hickory Grove",108,97,119,3,0,327
+"Chesapeake City",-,"17 - Indian Creek",73,53,46,4,0,176
+"Chesapeake City",-,"23 - Oak Grove",76,45,26,5,0,152
+"Chesapeake City",-,"28 - Sunray I",19,15,12,2,0,48
+"Chesapeake City",-,"34 - Hickory Middle School",154,80,68,1,0,303
+"Chesapeake City",-,"36 - Great Bridge Baptist Church",103,51,59,2,0,215
+"Chesapeake City",-,"37 - Bridgetown",90,58,42,6,0,196
+"Chesapeake City",-,"39 - Lake Drummond",66,46,23,7,0,142
+"Chesapeake City",-,"41 - John T West",61,82,71,5,0,219
+"Chesapeake City",-,"42 - Parkways",33,34,11,3,0,81
+"Chesapeake City",-,"43 - Pleasant Crossing",118,105,43,6,0,272
+"Chesapeake City",-,"45 - Sunray II",11,19,9,2,0,41
+"Chesapeake City",-,"46 - Bells Mill II",74,48,49,3,0,174
+"Chesapeake City",-,"49 - Waterway",70,66,35,4,0,175
+"Chesapeake City",-,"50 - River Walk",81,54,33,6,0,174
+"Chesapeake City",-,"51 - Coopers Way",120,85,100,5,0,310
+"Chesapeake City",-,"52 - Shipyard Road",36,25,10,1,0,72
+"Chesapeake City",-,"53 - Fairways",108,65,23,0,0,196
+"Chesapeake City",-,"54 - Pughsville",0,2,0,0,0,2
+"Chesapeake City",-,"56 - Green Tree",47,55,30,3,0,135
+"Chesapeake City",-,"59 - Clearfield",79,55,34,5,0,173
+"Chesapeake City",-,"60 - Parker Road",91,58,73,7,0,229
+"Chesapeake City",-,"61 - Centerville",149,79,106,3,0,337
+"Chesapeake City",-,"62 - Fentress",124,85,71,8,0,288
+"Chesapeake City",-,"63 - Poplar Branch",81,42,50,2,0,175
+"Chesapeake City",-,"64 - Deep Creek Ii",35,46,26,2,0,109
+"Chesapeake City",-,"65 - Waterway Ii",108,59,60,3,0,230
+"Chesapeake City",-,"##ab - Central Absentee Precinct",282,72,61,53,0,468
+"Chesapeake City",-,"##ev - Central Absentee Precinct",271,162,171,23,0,627
+"Chesapeake City",-,"##pe - Central Absentee Precinct",20,11,6,4,0,41
+"Chesapeake City",-,Provisional,8,7,0,1,0,16
+"Franklin City",-,"101 - Precinct 1-1",47,36,13,3,0,99
+"Franklin City",-,"201 - Precinct 2-1",27,23,6,3,0,59
+"Franklin City",-,"301 - Precinct 3-1",4,1,1,2,0,8
+"Franklin City",-,"401 - Precinct 4-1",1,0,0,1,0,2
+"Franklin City",-,"501 - Precinct 5-1",4,1,0,0,0,5
+"Franklin City",-,"601 - Precinct 6-1",24,13,7,4,0,48
+"Franklin City",-,"##ab - Central Absentee Precinct",10,1,1,2,0,14
+"Franklin City",-,"##ev - Central Absentee Precinct",16,10,2,0,0,28
+"Franklin City",-,"##pe - Central Absentee Precinct",0,2,0,0,0,2
+"Franklin City",-,Provisional,0,0,0,0,0,0
+"Isle of Wight County",-,"101 - Pagan River",155,96,33,10,0,294
+"Isle of Wight County",-,"102 - Cypress Creek A",151,90,20,14,0,275
+"Isle of Wight County",-,"103 - Cypress Creek B",11,8,0,0,0,19
+"Isle of Wight County",-,"201 - Bartlett",96,59,41,5,0,201
+"Isle of Wight County",-,"202 - Nike Park A",195,70,31,10,0,306
+"Isle of Wight County",-,"203 - Nike Park B",9,7,2,0,0,18
+"Isle of Wight County",-,"301 - Rushmere",34,29,2,5,0,70
+"Isle of Wight County",-,"302 - Pons",43,31,7,4,0,85
+"Isle of Wight County",-,"303 - Benns Church",15,12,0,3,0,30
+"Isle of Wight County",-,"304 - New Towne",13,1,5,1,0,20
+"Isle of Wight County",-,"401 - Bowling Green",104,62,7,0,0,173
+"Isle of Wight County",-,"402 - Windsor",92,105,11,4,0,212
+"Isle of Wight County",-,"403 - Cedar Grove",71,71,13,2,0,157
+"Isle of Wight County",-,"501 - Walters",64,44,2,1,0,111
+"Isle of Wight County",-,"502 - Beaver Dam",53,36,6,2,0,97
+"Isle of Wight County",-,"503 - Fire Tower",86,59,9,1,0,155
+"Isle of Wight County",-,"504 - Bethany Church",62,58,9,3,0,132
+"Isle of Wight County",-,"##ab - Central Absentee Precinct",51,22,19,20,0,112
+"Isle of Wight County",-,"##ev - Central Absentee Precinct",127,93,16,8,0,244
+"Isle of Wight County",-,"##pe - Central Absentee Precinct",5,1,0,0,0,6
+"Isle of Wight County",-,Provisional,1,0,0,0,0,1
+"Northampton County",-,"101 - Precinct 1-1",106,36,53,3,0,198
+"Northampton County",-,"201 - Precinct 2-1",35,21,3,0,0,59
+"Northampton County",-,"301 - Precinct 3-1",22,28,1,1,0,52
+"Northampton County",-,"401 - Precinct 4-1",60,44,13,5,0,122
+"Northampton County",-,"501 - Precinct 5-1",80,45,3,1,0,129
+"Northampton County",-,"##ab - Central Absentee Precinct",30,10,2,0,0,42
+"Northampton County",-,"##ev - Central Absentee Precinct",58,11,11,0,0,80
+"Northampton County",-,"##pe - Central Absentee Precinct",1,0,0,1,0,2
+"Northampton County",-,Provisional,0,0,0,0,0,0
+"Southampton County",-,"101 - Berlin",25,23,2,2,0,52
+"Southampton County",-,"102 - Ivor",41,42,2,2,0,87
+"Southampton County",-,"501 - Hunterdale",43,43,12,4,0,102
+"Southampton County",-,"502 - Forks-of-the-river",14,8,1,0,0,23
+"Southampton County",-,"601 - Courtland",25,31,10,4,0,70
+"Southampton County",-,"602 - Sedley",27,19,7,1,0,54
+"Southampton County",-,"701 - Blackwater River",9,10,0,1,0,20
+"Southampton County",-,"702 - Newsoms",7,8,0,2,0,17
+"Southampton County",-,"##ab - Central Absentee Precinct",13,3,6,1,0,23
+"Southampton County",-,"##ev - Central Absentee Precinct",11,20,0,0,0,31
+"Southampton County",-,"##pe - Central Absentee Precinct",0,0,0,0,0,0
+"Southampton County",-,Provisional,0,0,0,0,0,0
+"Suffolk City",-,"101 - Belleharbour",37,28,5,0,0,70
+"Suffolk City",-,"102 - Driver",247,129,97,9,0,482
+"Suffolk City",-,"104 - Bennetts Creek",78,67,32,5,0,182
+"Suffolk City",-,"201 - Ebenezer",195,102,31,16,0,344
+"Suffolk City",-,"202 - Chuckatuck",98,79,30,12,0,219
+"Suffolk City",-,"203 - Kings Fork",65,39,59,3,0,166
+"Suffolk City",-,"204 - Hillpoint",45,32,5,3,0,85
+"Suffolk City",-,"301 - White Marsh",18,23,5,2,0,48
+"Suffolk City",-,"302 - John F Kennedy",13,20,4,3,0,40
+"Suffolk City",-,"304 - Nansemond River",57,48,21,9,0,135
+"Suffolk City",-,"305 - Shoulders Hill",14,28,6,4,0,52
+"Suffolk City",-,"401 - Airport",60,51,9,5,0,125
+"Suffolk City",-,"402 - Whaleyville",84,107,18,3,0,212
+"Suffolk City",-,"403 - Southside",5,2,3,1,0,11
+"Suffolk City",-,"404 - Booker T Washington",2,3,2,0,0,7
+"Suffolk City",-,"405 - Pittmantown",25,25,5,4,0,59
+"Suffolk City",-,"501 - Kilbys Mill",88,88,20,8,0,204
+"Suffolk City",-,"502 - Holland",73,107,11,6,0,197
+"Suffolk City",-,"504 - Lake Cohoon",153,140,43,10,0,346
+"Suffolk City",-,"601 - Lakeside",74,58,28,7,0,167
+"Suffolk City",-,"602 - Olde Towne",14,11,1,1,0,27
+"Suffolk City",-,"603 - Elephants Fork/westhaven",14,25,2,3,0,44
+"Suffolk City",-,"604 - Wilroy",33,43,17,0,0,93
+"Suffolk City",-,"605 - Hollywood",0,1,0,0,0,1
+"Suffolk City",-,"702 - Harbourview",97,58,15,8,0,178
+"Suffolk City",-,"704 - Burbage Grant",49,48,11,6,0,114
+"Suffolk City",-,"706 - Huntersville",22,23,3,3,0,51
+"Suffolk City",-,"##ab - Central Absentee Precinct",99,38,31,26,0,194
+"Suffolk City",-,"##ev - Central Absentee Precinct",117,122,40,16,0,295
+"Suffolk City",-,"##pe - Central Absentee Precinct",10,2,1,2,0,15
+"Suffolk City",-,Provisional,2,2,0,0,0,4
+"Virginia Beach City",-,"1 - North Beach",335,69,35,4,0,443
+"Virginia Beach City",-,"2 - South Beach",105,39,20,4,0,168
+"Virginia Beach City",-,"3 - Ocean Lakes",77,38,19,2,0,136
+"Virginia Beach City",-,"4 - Linkhorn",249,53,39,4,0,345
+"Virginia Beach City",-,"5 - Seatack",55,31,13,4,0,103
+"Virginia Beach City",-,"6 - Alanton",221,78,46,9,0,354
+"Virginia Beach City",-,"7 - Kingston",203,47,28,5,0,283
+"Virginia Beach City",-,"8 - London Bridge",104,49,26,9,0,188
+"Virginia Beach City",-,"9 - Trantwood",309,84,19,12,0,424
+"Virginia Beach City",-,"10 - Great Neck",362,75,28,8,0,473
+"Virginia Beach City",-,"11 - Cape Henry",318,58,35,13,0,424
+"Virginia Beach City",-,"12 - Plaza",104,31,18,8,0,161
+"Virginia Beach City",-,"13 - Mt Trashmore",199,64,36,6,0,305
+"Virginia Beach City",-,"14 - Malibu",175,57,23,5,0,260
+"Virginia Beach City",-,"15 - Old Donation",77,43,11,4,0,135
+"Virginia Beach City",-,"16 - Aragona",128,71,16,9,0,224
+"Virginia Beach City",-,"17 - Ocean Park",170,42,12,3,0,227
+"Virginia Beach City",-,"18 - Thoroughgood",299,50,35,2,0,386
+"Virginia Beach City",-,"19 - Lake Smith",156,38,11,8,0,213
+"Virginia Beach City",-,"20 - Bayside",125,64,20,1,0,210
+"Virginia Beach City",-,"21 - Davis Corner",43,15,6,5,0,69
+"Virginia Beach City",-,"22 - Point O View",174,37,23,4,0,238
+"Virginia Beach City",-,"23 - Arrowhead",127,68,19,5,0,219
+"Virginia Beach City",-,"24 - Larkspur",134,27,28,3,0,192
+"Virginia Beach City",-,"25 - Avalon",181,60,52,7,0,300
+"Virginia Beach City",-,"26 - Fairfield",207,58,45,6,0,316
+"Virginia Beach City",-,"27 - Edwin",232,59,34,6,0,331
+"Virginia Beach City",-,"28 - Thalia",166,55,22,6,0,249
+"Virginia Beach City",-,"29 - Holland",49,45,4,2,0,100
+"Virginia Beach City",-,"30 - Red Wing",145,51,73,4,0,273
+"Virginia Beach City",-,"31 - Sigma",197,64,149,6,0,416
+"Virginia Beach City",-,"32 - Creeds",91,57,70,1,0,219
+"Virginia Beach City",-,"33 - Capps Shop",119,57,47,1,0,224
+"Virginia Beach City",-,"34 - Blackwater",65,23,34,2,0,124
+"Virginia Beach City",-,"35 - Courthouse",197,57,82,4,0,340
+"Virginia Beach City",-,"36 - Windsor Oaks",95,54,14,4,0,167
+"Virginia Beach City",-,"37 - Chesapeake Beach",103,42,23,9,0,177
+"Virginia Beach City",-,"38 - Witchduck",322,70,64,7,0,463
+"Virginia Beach City",-,"39 - Pembroke",137,47,20,5,0,209
+"Virginia Beach City",-,"40 - Bonney",64,23,4,0,0,91
+"Virginia Beach City",-,"41 - College Park",67,22,9,3,0,101
+"Virginia Beach City",-,"42 - Brandon",138,60,21,6,0,225
+"Virginia Beach City",-,"43 - Bellamy",59,23,2,4,0,88
+"Virginia Beach City",-,"44 - Centerville",122,49,38,6,0,215
+"Virginia Beach City",-,"45 - Timberlake",51,25,11,2,0,89
+"Virginia Beach City",-,"46 - Green Run",37,19,7,0,0,63
+"Virginia Beach City",-,"47 - Kings Grant",375,53,67,3,0,498
+"Virginia Beach City",-,"48 - Wolfsnare",214,74,27,8,0,323
+"Virginia Beach City",-,"49 - Lynnhaven",206,54,55,6,0,321
+"Virginia Beach City",-,"50 - Oceana",32,17,7,1,0,57
+"Virginia Beach City",-,"51 - Stratford Chase",141,37,19,6,0,203
+"Virginia Beach City",-,"52 - Homestead",158,79,51,9,0,297
+"Virginia Beach City",-,"53 - Shannon",114,36,26,2,0,178
+"Virginia Beach City",-,"54 - Cromwell",38,44,6,2,0,90
+"Virginia Beach City",-,"55 - Magic Hollow",34,24,19,4,0,81
+"Virginia Beach City",-,"56 - Edinburgh",118,41,8,8,0,175
+"Virginia Beach City",-,"57 - Sherry Park",78,53,3,3,0,137
+"Virginia Beach City",-,"58 - Glenwood",106,58,30,7,0,201
+"Virginia Beach City",-,"59 - Shelton Park",92,38,14,7,0,151
+"Virginia Beach City",-,"60 - Foxfire",165,78,69,5,0,317
+"Virginia Beach City",-,"61 - Baker",10,4,5,1,0,20
+"Virginia Beach City",-,"62 - Landstown",142,66,42,8,0,258
+"Virginia Beach City",-,"63 - Culver",126,65,49,8,0,248
+"Virginia Beach City",-,"64 - Rosemont Forest",114,49,19,3,0,185
+"Virginia Beach City",-,"65 - Colonial",87,28,39,1,0,155
+"Virginia Beach City",-,"66 - Hunt",119,51,68,6,0,244
+"Virginia Beach City",-,"67 - Eastern Shore",37,15,5,2,0,59
+"Virginia Beach City",-,"68 - Manor",223,52,18,3,0,296
+"Virginia Beach City",-,"69 - Shell",52,22,18,3,0,95
+"Virginia Beach City",-,"70 - Corporate Landing",66,65,18,5,0,154
+"Virginia Beach City",-,"71 - Round Hill",62,25,5,4,0,96
+"Virginia Beach City",-,"72 - Rudee",172,44,27,5,0,248
+"Virginia Beach City",-,"73 - Dahlia",43,19,6,2,0,70
+"Virginia Beach City",-,"74 - Buckner",46,28,6,2,0,82
+"Virginia Beach City",-,"75 - Colony",287,55,34,31,0,407
+"Virginia Beach City",-,"76 - Village",36,14,5,2,0,57
+"Virginia Beach City",-,"77 - Brookwood",60,69,21,9,0,159
+"Virginia Beach City",-,"78 - Indian Lakes",84,49,9,5,0,147
+"Virginia Beach City",-,"79 - Pleasant Hall",45,24,7,5,0,81
+"Virginia Beach City",-,"80 - Chimney Hill",39,29,6,3,0,77
+"Virginia Beach City",-,"81 - Rock Lake",56,63,14,4,0,137
+"Virginia Beach City",-,"82 - Shelburne",118,42,48,6,0,214
+"Virginia Beach City",-,"83 - Strawbridge",131,72,49,6,0,258
+"Virginia Beach City",-,"84 - Tallwood",75,27,13,5,0,120
+"Virginia Beach City",-,"85 - Upton",148,54,89,2,0,293
+"Virginia Beach City",-,"86 - Haygood",249,60,38,4,0,351
+"Virginia Beach City",-,"87 - Hillcrest",129,51,18,5,0,203
+"Virginia Beach City",-,"88 - North Landing",81,44,24,1,0,150
+"Virginia Beach City",-,"89 - Lake Christopher",169,62,19,4,0,254
+"Virginia Beach City",-,"90 - Lake Joyce",124,42,18,3,0,187
+"Virginia Beach City",-,"91 - Lexington",71,41,9,2,0,123
+"Virginia Beach City",-,"92 - Little Neck",291,42,15,5,0,353
+"Virginia Beach City",-,"93 - Newtown",21,8,7,5,0,41
+"Virginia Beach City",-,"94 - Pinewood",104,33,8,3,0,148
+"Virginia Beach City",-,"95 - Dam Neck",73,31,33,2,0,139
+"Virginia Beach City",-,"96 - Hilltop",39,41,9,2,0,91
+"Virginia Beach City",-,"97 - Indian River",49,42,10,2,0,103
+"Virginia Beach City",-,"98 - Independence",25,4,0,1,0,30
+"Virginia Beach City",-,"99 - Salem Woods",47,21,8,0,0,76
+"Virginia Beach City",-,"100 - Sandbridge",108,32,43,0,0,183
+"Virginia Beach City",-,"##ab - Central Absentee Precinct","1,118",228,167,154,0,"1,667"
+"Virginia Beach City",-,"##ev - Central Absentee Precinct",958,301,256,44,0,"1,559"
+"Virginia Beach City",-,"##pe - Central Absentee Precinct",112,31,20,8,0,171
+"Virginia Beach City",-,Provisional,24,5,4,0,0,33
+TOTALS,,,"23,300","11,330","5,972","1,237",0,"41,839"

@@ -59,7 +59,7 @@ cd_plot <- united_cd %>%
 
 cd_plot
 
-ggsave('images/va_plot_pct_cd2_2022.png', va_plot, bg='transparent')
+ggsave('images/va_plot_pct_cd2_2022.png', cd_plot, bg='transparent')
 
 va_plot <- united_prez %>% 
   ggplot() +
@@ -70,7 +70,7 @@ va_plot <- united_prez %>%
 
 ggsave('images/va_plot_pct_prez_2016.png', va_plot, bg='transparent')
 
-va_plot_winner <- united %>%
+va_plot_winner <- united_prez %>%
   mutate(Winner = mapvalues(winner_2016, 
                             from=c("donald_j_trump", "marco_rubio", 
                                    "rafael_edward_cruz","benjamin_s_carson_sr"), 
