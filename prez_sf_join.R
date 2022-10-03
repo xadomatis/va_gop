@@ -1,5 +1,6 @@
 library(tidyverse)
 library(sf)
+library(plyr)
 
 fix_cols <- 
   function(df) {
@@ -18,8 +19,8 @@ remove_pct_suffix <-
   function(string) {
     x <- str_sub(string, end = 4) %>% 
       gsub("[^0-9]", "", .) %>% 
-      paste("0", ., sep = "0") %>% 
-      str_sub(., start= -3)
+      paste("0000", ., sep = "0") %>% 
+      str_sub(., start= -6)
     return(x)
   }
 
@@ -30,9 +31,8 @@ pct <-
   st_read("data/raw/shapefiles/va_2016/va_2016_president.shp") %>% 
   fix_cols %>% 
   mutate(fips = paste("51",countyfp, sep = ""),
-         pct_num = str_sub(vtdst, start= -3),
          fips = as.integer(fips),
-         pcode = paste(fips, pct_num, sep = "")) %>% 
+         pcode = paste(fips, vtdst, sep = "")) %>% 
   select(pcode,geometry)
 
 prez <- 
@@ -42,20 +42,28 @@ prez <-
   mutate(precinct = remove_pct_prefix(pct),
          pct_num = remove_pct_suffix(pct),
          fips = as.integer(fips),
-         pcode = paste(fips, pct_num, sep = ""),
-         .keep = "unused") %>% 
+         pcode = paste(fips, pct_num, sep = "")) %>% 
   select(-c(1,fips,county_name,precinct,pct_num)) %>% 
-  select(pcode, everything()) %>% 
-  mutate(total = rowSums(.[(2:15)]),
-         trump_pct = donald_j_trump / total,
-         winner = colnames(.[(2:15)])[apply(.[(2:15)],1,which.max)])
+  select(pcode, pct, everything()) %>% 
+  mutate(winner = colnames(.[(3:16)])[apply(.[(3:16)],1,which.max)],
+         total = rowSums(.[(3:16)]),
+         trump_pct = donald_j_trump / total) 
 
 united <- 
   inner_join(pct,prez, on = 'pcode') %>% 
   st_transform(crs = 2284)
 
+# Evaluate precincts
+
+# Create an Arlington-only dataset for easy use
+
 arlington <- united %>% 
   filter(grepl("51013",pcode))
+
+
+# Plot --------------------------------------------------------------------
+
+
 
 ar_plot <- arlington %>% 
   ggplot() +
@@ -73,7 +81,31 @@ va_plot <- united %>%
   theme_void() +
   guides(fill=guide_legend(title="Trump Vote Share"))
 
-ggsave('myplot.png', va_plot, bg='transparent')
+ggsave('va_plot_pct.png', va_plot, bg='transparent')
+
+va_plot_winner <- united %>%
+  mutate(Winner = mapvalues(winner, 
+                            from=c("donald_j_trump", "marco_rubio", 
+                                   "rafael_edward_cruz","benjamin_s_carson_sr"), 
+                            to=c("Donald Trump", "Marco Rubio", 
+                                 "Other","Other"))) %>% 
+  ggplot() +
+  geom_sf(aes(fill = Winner), size = 0.001) +
+  scale_fill_viridis_d(option = "magma", direction = -1) +
+  theme_void()
+  
+va_plot_winner
+
+ggsave('va_plot_winner.png', va_plot_winner, bg='transparent')
 
 
+# Scrap -------------------------------------------------------------------
+
+# Display a list of redundant pcodes and investigate
+
+dup_pcodes <- table(united$pcode) %>% data.frame %>% filter(Freq != 1)
+
+examine_prez <- prez %>% filter(pcode %in% dup_pcodes$Var1) %>% select(pct)
+
+pct %>% filter(pcode %in% dup_pcodes$Var1) %>% select(pcode)
 
