@@ -81,10 +81,6 @@ united_cd <-
   inner_join(pct,cd2, on = 'pcode') %>% 
   st_transform(crs = 2284)
 
-# Evaluate precincts
-
-# Create an Arlington-only dataset for easy use
-
 arlington <- united %>% 
   filter(grepl("51013",pcode))
 
