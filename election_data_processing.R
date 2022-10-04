@@ -53,7 +53,7 @@ find_winner <-
 
 prep <- 
   function(frame,year_string) {
-    df <- 
+    df <-  
       frame %>% 
       filter(!grepl("Absentee",pct),
              !grepl("Provisional",pct),
@@ -106,17 +106,15 @@ write.csv(sen,"data/processed/va_sen_2018.csv", row.names = FALSE)
 
 # Import the 2022 CD-2 election and clean:
 
-cd2_22_pre <- 
-  read_csv("data/raw/vde_cd2_2022.csv") %>%
-  fix_cols %>% 
-  mutate(county_name = gsub('_',' ', county)) %>% 
-  mutate(county_name = str_to_lower(gsub(' COUNTY','', county_name))) %>% 
-  inner_join(
-    .,
-    fips,
-    by = "county_name") %>% 
-  select(-c(county,`_1`,state,precinct_,county_name))
+cd2 <- prep(state_pre_prep("cd2_2022"),"_2022")
+write.csv(cd2,"data/processed/va_cd2_2022.csv", row.names = FALSE)
 
-cd2_22 <- prep(cd2_22_pre,"_2022")
-write.csv(cd2_22,"data/processed/va_cd2_2022.csv", row.names = FALSE)
-rm(cd2_22_pre)
+# Import the 2022 CD-7 election and clean:
+
+cd7 <- prep(state_pre_prep("cd7_2022"),"_2022")
+write.csv(cd7,"data/processed/va_cd7_2022.csv", row.names = FALSE)
+
+# Import the 2018 CD-10 election and clean:
+
+cd10 <- prep(state_pre_prep("cd10_2018"),"_2018")
+write.csv(cd10,"data/processed/va_cd10_2018.csv", row.names = FALSE)

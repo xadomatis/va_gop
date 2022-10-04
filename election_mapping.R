@@ -38,6 +38,12 @@ gov <-
 cd2_22 <- 
   read_csv("data/processed/va_cd2_2022.csv") %>% mutate(pcode = as.character(pcode))
 
+cd7_22 <- 
+  read_csv("data/processed/va_cd7_2022.csv") %>% mutate(pcode = as.character(pcode))
+
+cd10_18 <- 
+  read_csv("data/processed/va_cd10_2018.csv") %>% mutate(pcode = as.character(pcode))
+
 # Merge Data --------------------------------------------------------------
 
 united_prez <- 
@@ -45,7 +51,7 @@ united_prez <-
   st_transform(crs = 2284)
 
 united_cd <- 
-  inner_join(pct,cd2_22, on = 'pcode') %>% 
+  inner_join(pct,cd7_22, on = 'pcode') %>% 
   st_transform(crs = 2284)
 
 # Plot --------------------------------------------------------------------
@@ -55,11 +61,11 @@ cd_plot <- united_cd %>%
   geom_sf(aes(fill = winner_percent_2022), size = 0.001) +
   scale_fill_continuous(type = "viridis", option = "magma") +
   theme_void() +
-  guides(fill=guide_legend(title="Kiggans Vote Share"))
+  guides(fill=guide_legend(title="Vega Vote Share"))
 
 cd_plot
 
-ggsave('images/va_plot_pct_cd2_2022.png', cd_plot, bg='transparent')
+ggsave('images/va_plot_pct_cd7_2022.png', cd_plot, bg='transparent')
 
 va_plot <- united_prez %>% 
   ggplot() +
