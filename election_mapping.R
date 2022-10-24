@@ -3,6 +3,7 @@
 
 library(tidyverse)
 library(sf)
+library(plyr)
 
 fix_cols <- 
   function(df) {
@@ -76,6 +77,8 @@ va_plot <- united_prez %>%
 
 ggsave('images/va_plot_pct_prez_2016.png', va_plot, bg='transparent')
 
+va_plot
+
 va_plot_winner <- united_prez %>%
   mutate(Winner = mapvalues(winner_2016, 
                             from=c("donald_j_trump", "marco_rubio", 
@@ -86,5 +89,7 @@ va_plot_winner <- united_prez %>%
   geom_sf(aes(fill = Winner), size = 0.001) +
   scale_fill_viridis_d(option = "magma", direction = -1) +
   theme_void()
+
+va_plot_winner
 
 ggsave('images/va_plot_winner_prez_2016.png', va_plot_winner, bg='transparent')
